@@ -1,7 +1,9 @@
 # 💫 About Me
 
-### Tech Blog
-
+### 📌 Tech Blog
+<a href="https://mclub4.tistory.com/">
+ 경험의 가치 블로그
+</a>
 
 #### 🏷️ Contact
  <a href="mailto:mclub901@gmail.com">
