@@ -67,6 +67,13 @@
 
 # 💻 Projects
 
-### Hi there 👋
+| 기간 | 내용 |
+| --- | --- |
+| 2024.03 ~ 2024.06　|국민대 유학생들을 위한 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-30">외국민</a>' Backend 개발 |
 
+
+
+# ETC
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mclub4&theme=ayu_mirage" width="34%">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=mclub4&theme=ayu_mirage" width="50%">
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mclub4)](https://solved.ac/mclub4)
