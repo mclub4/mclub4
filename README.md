@@ -2,7 +2,7 @@
 
 ### 📌 Tech Blog
 <a href="https://mclub4.tistory.com/">
- 경험의 가치 블로그
+ <img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
 
 #### 🏷️ Contact
