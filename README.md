@@ -67,9 +67,9 @@
 
 # 💻 Projects
 
-| 기간 | 내용 |
-| --- | --- |
-| 2024.03 ~ 2024.06　|국민대 유학생들을 위한 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-30">외국민</a>' Backend 개발 |
+| 기간 | 내용 | 소개 페이지 |
+| --- | --- |  --- |
+| 2024.03 ~ 2024.06　|국민대 유학생들을 위한 서비스 '외국민' Backend 개발 | <a href="https://github.com/kookmin-sw/capstone-2024-30">Git</a> |
 
 
 
