@@ -1,5 +1,7 @@
 # 💫 About Me
 
+안녕하세요, 더 좋은 품질의 서비스를 구축하기 위한 방안을 끊임 없이 연구하고 공부하는 백엔드 개발자 조현진입니다!
+
 ### 📌 Tech Blog
 <a href="https://mclub4.tistory.com/">
  <img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
@@ -77,9 +79,10 @@
 | 백준 Slack  |          백준 문제를 풀지 않은 사람에게 알림을 보내고 문제를 추천해주는 Slack 봇           |   Backend    | 2023.04 ~ 2023.05 |     [Github](https://github.com/mclub4/BOJ-Slack) |
 | 나만의 작은 냉장고 |          다양한 카드로 1:1 승부를 내는 전략 카드 게임           |   Frontend    | 2020.09 ~ 2020.12 |     [Github](https://github.com/mp2020team1/najaknaeng) |
 
+# 🏫 Experience
 
+- [한국지능정보시스템학회 춘계 학술 대회](https://www.kiiss.or.kr/conference/conf/sub01.html) 참여 '[2024.05]' [회고록](https://mclub4.tistory.com/41)
+- [국민대학교 x 숙명여대 해커톤](https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e) 참여 '[2023.12]' [Github](https://github.com/Cocoton-team-4)
 
 # ETC
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mclub4&theme=ayu_mirage" width="34%">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=mclub4&theme=ayu_mirage" width="50%">
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mclub4)](https://solved.ac/mclub4)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mclub4)](https://solved.ac/mclub4) <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mclub4&theme=ayu_mirage" width="34%">
