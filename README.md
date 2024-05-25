@@ -7,7 +7,7 @@
 
 #### 🏷️ Contact
  <a href="mailto:mclub901@gmail.com">
-   <img src="https://img.shields.io/badge/whyeesw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mclub901@gmail.com"/>
+   <img src="https://img.shields.io/badge/mclub901@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mclub901@gmail.com"/>
  </a>
 <br><br>
 
@@ -67,9 +67,13 @@
 
 # 💻 Projects
 
-| 기간 | 내용 | 소개 페이지 |
-| --- | --- |  --- |
-| 2024.03 ~ 2024.06　|국민대 유학생들을 위한 서비스 '외국민' Backend 개발 | <a href="https://github.com/kookmin-sw/capstone-2024-30">Git</a> |
+|             프로젝트명             |                           프로젝트 소개                            |   역할    |     기간      |    타입    |                                                                 관련 사이                                                                 |
+| :----------------------------: | :----------------------------------------------------------: | :--------: | :---------------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|           외국민           | 외국인 유학생이 국민대 생활에 적응을 도와주는 앱서비스 | Backend | 2024.03 ~ 2024.06 | Team |               [Github](https://github.com/kookmin-sw/capstone-2024-30) <br> [소개 페이지](https://kookmin-sw.github.io/capstone-2024-30/) <br> [백엔드 문서](https://kookmin-sw.github.io/capstone-2024-30/back/BACK.html) <br> [다운로드 링크](https://play.google.com/store/apps/details?id=com.foreign.kookmin&hl=en_US)               |
+|           이음            |                대학생들을 위한 공모전 및 팀 프로젝트 인력 구인 플랫폼                |   Leader, Backend    | 2024.02 ~ 진행중  |    Team    |                                      [Github](https://github.com/Alpha-e-Um) <br> [웹사이트](https://e-um.site)                                     |
+| 2023 APPS <br> 전시회 웹페이지 |          소프트웨어학부 개발 동아리 전시회 웹사이트          |   React    | 2023.09 ~ 2023.12 |    Team    | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) [Website](https://2023-apps-exhibition-webpage.vercel.app/) |
+|            TeamMate            |               모든 운동을 위한 팀 매칭 서비스                |   React    | 2024.01 ~ 2024.02 |    Team    |                                         [Github](https://github.com/TiimMate/TeamMateClient)                                         |
+
 
 
 
