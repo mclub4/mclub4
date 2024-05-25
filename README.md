@@ -75,9 +75,10 @@
 |           이음            |                대학생들을 위한 공모전 및 팀 프로젝트 인력 구인 플랫폼                |   Leader, Backend    | 2024.02 ~ 진행중  |                                          [Github](https://github.com/Alpha-e-Um) <br> [웹사이트](https://e-um.site)                                     |
 |            Reborn            |               고인을 추억할 수 있도록 고인의 SNS를 만들어주는 서비스                |   Leader, Backend    | 2023.12 ~ 2023.12 |                                             [Github](https://github.com/Cocoton-team-4)                                         |
 | Card Clash |          다양한 카드로 1:1 승부를 내는 전략 카드 게임           |   Frontend, Backend    | 2023.09 ~ 2023.12 |     [Github](https://github.com/gsp-kmu) |
+| Kwitch |          국민대를 위한 스트리밍 서비스, Kwitch           |   Backend    | 2023.11 ~ 2023.12 |     [Github](https://github.com/SA-TermProject-Team-Kwitch/kwitch-server) |
 | 오늘의 출근 |          교대 근무가 이루어지는 모든 단체에서 효율적인 관리를 위한 서비스           |   Leader, Frontend    | 2023.06 ~ 개발중단 |    [Github](https://github.com/Kookmin-Contest) |
 | 백준 Slack  |          백준 문제를 풀지 않은 사람에게 알림을 보내고 문제를 추천해주는 Slack 봇           |   Backend    | 2023.04 ~ 2023.05 |     [Github](https://github.com/mclub4/BOJ-Slack) |
-| 나만의 작은 냉장고 |          다양한 카드로 1:1 승부를 내는 전략 카드 게임           |   Frontend    | 2020.09 ~ 2020.12 |     [Github](https://github.com/mp2020team1/najaknaeng) |
+| 나만의 작은 냉장고 |         냉장고 속 재료 관리를 도와주는 앱서비스           |   Frontend    | 2020.09 ~ 2020.12 |     [Github](https://github.com/mp2020team1/najaknaeng) |
 
 # 🏫 Experience
 
