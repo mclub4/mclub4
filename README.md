@@ -69,11 +69,13 @@
 
 |             프로젝트명             |                           프로젝트 소개                            |   역할    |     기간      |    타입    |                                                                 관련 사이                                                                 |
 | :----------------------------: | :----------------------------------------------------------: | :--------: | :---------------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-|           외국민           | 외국인 유학생이 국민대 생활에 적응을 도와주는 앱서비스 | Backend | 2024.03 ~ 2024.06 | Team |               [Github](https://github.com/kookmin-sw/capstone-2024-30) <br> [소개 페이지](https://kookmin-sw.github.io/capstone-2024-30/) <br> [백엔드 문서](https://kookmin-sw.github.io/capstone-2024-30/back/BACK.html) <br> [다운로드 링크](https://play.google.com/store/apps/details?id=com.foreign.kookmin&hl=en_US)               |
+|           외국민           | 외국인 유학생이 국민대 생활에 적응을 도와주는 앱서비스 | Backend | 2024.03 ~ 2024.06 | Team |               [Github](https://github.com/kookmin-sw/capstone-2024-30) <br> [소개 페이지](https://kookmin-sw.github.io/capstone-2024-30/) <br> [백엔드 문서](https://kookmin-sw.github.io/capstone-2024-30/back/BACK.html) <br> [플레이스토어](https://play.google.com/store/apps/details?id=com.foreign.kookmin&hl=en_US)               |
 |           이음            |                대학생들을 위한 공모전 및 팀 프로젝트 인력 구인 플랫폼                |   Leader, Backend    | 2024.02 ~ 진행중  |    Team    |                                      [Github](https://github.com/Alpha-e-Um) <br> [웹사이트](https://e-um.site)                                     |
-| 2023 APPS <br> 전시회 웹페이지 |          소프트웨어학부 개발 동아리 전시회 웹사이트          |   React    | 2023.09 ~ 2023.12 |    Team    | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) [Website](https://2023-apps-exhibition-webpage.vercel.app/) |
-|            TeamMate            |               모든 운동을 위한 팀 매칭 서비스                |   React    | 2024.01 ~ 2024.02 |    Team    |                                         [Github](https://github.com/TiimMate/TeamMateClient)                                         |
-
+|            Reborn            |               고인을 추억할 수 있도록 고인의 SNS를 만들어주는 서비스                |   Leader, Backend    | 2023.12 ~ 2023.12 |    Team    |                                         [Github](https://github.com/Cocoton-team-4)                                         |
+| Card Clash |          다양한 카드로 1:1 승부를 내는 전략 카드 게임           |   Frontend, Backend    | 2023.09 ~ 2023.12 |    Team    | [Github](https://github.com/gsp-kmu) |
+| 오늘의 출근 |          교대 근무가 이루어지는 모든 단체에서 효율적인 관리를 위한 서비스           |   Frontend    | 2023.06 ~ 개발중단 |    Team    | [Github](https://github.com/Kookmin-Contest) |
+| 백준 Slack  |          백준 문제를 풀지 않은 사람에게 알림을 보내고 문제를 추천해주는 Slack 봇           |   Backend    | 2023.04 ~ 2023.05 |    Individual    | [Github](https://github.com/mclub4/BOJ-Slack) |
+| 나만의 작은 냉장고 |          다양한 카드로 1:1 승부를 내는 전략 카드 게임           |   Frontend    | 2020.09 ~ 2020.12 |    Team    | [Github](https://github.com/mp2020team1/najaknaeng) |
 
 
 
