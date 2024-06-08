@@ -82,6 +82,7 @@
 
 # 🏫 Experience
 
+- [국민대학교 캡스톤어워즈 "외국민" 장려상 수상]
 - [한국지능정보시스템학회 춘계 학술 대회](https://www.kiiss.or.kr/conference/conf/sub01.html) 참여 [2024.05] [회고록](https://mclub4.tistory.com/41)
 - [국민대학교 x 숙명여대 해커톤](https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e) 참여 [2023.12] [Github](https://github.com/Cocoton-team-4)
 
