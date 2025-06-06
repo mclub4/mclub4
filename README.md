@@ -20,7 +20,6 @@
   <img alt="RED" src ="https://img.shields.io/badge/SPRING Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
   <img alt="RED" src ="https://img.shields.io/badge/Spring Cloud Gateway-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
   <img alt="RED" src ="https://img.shields.io/badge/Ruby On Rails-D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
@@ -36,7 +35,6 @@
   <img alt="RED" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=AmazonEC2&logoColor=white"/> 
   <img alt="RED" src ="https://img.shields.io/badge/Amazon Rds-527FFF.svg?&style=for-the-badge&logo=AmazonRds&logoColor=white"/> 
   <img alt="RED" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=AmazonS3&logoColor=white"/>
-  <img alt="RED" src ="https://img.shields.io/badge/Amazon Route 53-8C4FFF.svg?&style=for-the-badge&logo=Amazon Route 53&logoColor=white"/> 
   <img alt="RED" src ="https://img.shields.io/badge/Certbot-FF1E0D.svg?&style=for-the-badge&logo=Certbot&logoColor=white"/>
 </div>
 
@@ -72,7 +70,6 @@
 |             프로젝트명             |                           프로젝트 소개                            |   역할    |     기간      |                                                                 관련 사이                                                                 |
 | :----------------------------: | :----------------------------------------------------------: | :--------: | :---------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 |           외국민           | 외국인 유학생이 국민대 생활에 적응을 도와주는 앱서비스 | Backend, Infra | 2024.03 ~ 2024.06 |              [Github](https://github.com/kookmin-sw/capstone-2024-30) <br> [소개 페이지](https://kookmin-sw.github.io/capstone-2024-30/) <br> [백엔드 문서](https://kookmin-sw.github.io/capstone-2024-30/back/BACK.html) <br> [플레이스토어](https://play.google.com/store/apps/details?id=com.foreign.kookmin&hl=en_US)               |
-|           이음            |                대학생들을 위한 공모전 및 팀 프로젝트 인력 구인 플랫폼                |   Leader, Backend, Infra    | 2024.02 ~ 진행중  |                                          [Github](https://github.com/Alpha-e-Um) <br> [웹사이트](https://e-um.site)                                     |
 |            Reborn            |               고인을 추억할 수 있도록 고인의 SNS를 만들어주는 서비스                |   Leader, Backend    | 2023.12 ~ 2023.12 |                                             [Github](https://github.com/Cocoton-team-4)                                         |
 | Card Clash |          다양한 카드로 1:1 승부를 내는 전략 카드 게임           |   Frontend, Backend, Infra    | 2023.09 ~ 2023.12 |     [Github](https://github.com/gsp-kmu) |
 | Kwitch |          국민대를 위한 스트리밍 서비스, Kwitch           |   Backend    | 2023.11 ~ 2023.12 |     [Github](https://github.com/SA-TermProject-Team-Kwitch/kwitch-server) |
